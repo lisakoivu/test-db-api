@@ -3,7 +3,11 @@
       {
         "id": 1,
         "title": "dog"
-      }
+      },
+      {
+        "id": 2,
+        "title": "another dog"
+      }      
     ],
     "profile": {
       "name": "typicode"
